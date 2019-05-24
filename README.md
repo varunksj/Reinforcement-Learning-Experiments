@@ -1,2 +1,2 @@
 # Reinforcement-Learning-Experiments
-Replicating Implemnatation of various games using RL
+Replicating Implementation of various games using RL
